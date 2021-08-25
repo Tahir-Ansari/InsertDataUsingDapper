@@ -78,3 +78,4 @@ C:\Users\DELL\source\repos\InsertDataUsingDapper\InsertDataUsingDapper\obj\Debug
 C:\Users\DELL\source\repos\InsertDataUsingDapper\InsertDataUsingDapper\obj\Debug\InsertDataUsingDapper.csproj.CopyComplete
 C:\Users\DELL\source\repos\InsertDataUsingDapper\InsertDataUsingDapper\obj\Debug\InsertDataUsingDapper.dll
 C:\Users\DELL\source\repos\InsertDataUsingDapper\InsertDataUsingDapper\obj\Debug\InsertDataUsingDapper.pdb
+C:\Users\DELL\source\repos\InsertDataUsingDapper\InsertDataUsingDapper\obj\Debug\InsertDataUsingDapper.csproj.AssemblyReference.cache
